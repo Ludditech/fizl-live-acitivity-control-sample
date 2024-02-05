@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version        = '1.0.0'
   s.summary        = 'Methods to control a live activity'
   s.description    = 'Methods to control a live activity'
-  s.author         = 'Dominic Hains'
+  s.author         = 'Ludditech Inc.'
   s.homepage       = 'https://fizl.io'
   s.platform       = :ios, '13.0'
   s.source         = { git: '' }

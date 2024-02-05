@@ -42,7 +42,7 @@ public class LiveActivityControlModule: Module {
                 return false
             }
         }
-        
+
         Function("endActivity") { (title: String, headline: String, widgetUrl: String) -> Void in
             let logger = Logger()
             logger.info("endActivity()")

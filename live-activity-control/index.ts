@@ -30,7 +30,7 @@ export function startActivity(options: StartActivityOptions): boolean {
     Math.floor(options.endTime.getTime() / 1000),
     options.title,
     options.headline,
-    options.widgetUrl,
+    options.widgetUrl
   );
 }
 
@@ -39,14 +39,14 @@ function startActivityInner(
   endTime: number,
   title: string,
   headline: string,
-  widgetUrl: string,
+  widgetUrl: string
 ): boolean {
   return LiveActivityControlModule.startActivity(
     startTime,
     endTime,
     title,
     headline,
-    widgetUrl,
+    widgetUrl
   );
 }
 
@@ -61,7 +61,7 @@ export function endActivity(options: EndActivityOptions): void {
 function endActivityInner(
   title: string,
   headline: string,
-  widgetUrl: string,
+  widgetUrl: string
 ): void {
   LiveActivityControlModule.endActivity(title, headline, widgetUrl);
 }
