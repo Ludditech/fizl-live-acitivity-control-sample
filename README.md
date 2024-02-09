@@ -2,7 +2,7 @@
 
 Welcome to the GitHub repository for the _Live Activity Control Module_ project developed by Fizl.
 
-This module is an [Expo Native Module](https://docs.expo.dev/modules/get-started/#creating-the-local-expo-module) that allows you to control the live activity of the app.
+This module is an [Expo Native Module](https://docs.expo.dev/modules/get-started/#creating-the-local-expo-module) that allows you to control the live activity of the app. Whether you are a beginner or experienced developer, we invite you to follow this article in English[^1] or French[^2], which will explain in detail how to integrate and use the *Live Activity Sample* project in your iOS applications.
 
 ## Installation
 
@@ -27,5 +27,3 @@ To use the module in your project, use the functions exported from the `index.ts
 
 [^1]: Article in English: [Implementing Live Activities in React-Native with Expo](https://fizl.io/fr/blog/posts/live-activities)
 [^2]: Article in French: [Implémenter des Live Activities en React-Native avec Expo](https://fizl.io/fr/blog/posts/live-activities)
-[^3]: Apple developer documentation: [Displaying live data with Live Activities](https://developer.apple.com/documentation/activitykit/displaying-live-data-with-live-activities)
-
