@@ -25,5 +25,5 @@ To use the module in your project, use the functions exported from the `index.ts
 
 💚 Ludditech, the company behind Fizl, was named in honor of the 19th-century Luddites, who opposed the use of machines for fear of losing their jobs. With this legacy at the heart of our identity, our deep conviction is that technology should not replace workers, but assist them in realizing their potential – to "become what they aspire to be".
 
-[^1]: Article in English: [Implementing Live Activities in React-Native with Expo](https://fizl.io/fr/blog/posts/live-activities)
+[^1]: Article in English: [Implementing Live Activities in React-Native with Expo](https://fizl.io/en/blog/posts/live-activities)
 [^2]: Article in French: [Implémenter des Live Activities en React-Native avec Expo](https://fizl.io/fr/blog/posts/live-activities)
